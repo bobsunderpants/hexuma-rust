@@ -1,0 +1,12 @@
+[package]
+name = "hexuma"
+version = "0.1.0"
+edition = "2021"
+description = "Hexuma: The Eye of Kal - an English remake of the 1992 German adventure"
+
+[dependencies]
+minifb = "0.29"
+font8x8 = "0.3"
+
+[profile.release]
+opt-level = 2
