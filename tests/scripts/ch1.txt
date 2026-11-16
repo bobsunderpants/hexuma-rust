@@ -1,0 +1,114 @@
+wait
+wait
+wait
+wait
+open door
+take envelope
+north
+take sword
+cut cord
+open envelope
+take shard
+north
+take cue
+play billiard
+no
+detach cue
+attach blade to handle
+south
+south
+cut rope
+take candle
+take rope
+west
+take lighter
+east
+down
+take soot
+press brick
+down
+take bottle
+west
+take hook
+east
+up
+fill lighter
+light lighter
+light candle
+up
+west
+take jar
+take wax
+push table
+east
+push table
+attach hook to shaft
+climb table
+climb trapdoor
+west
+open buffet
+take sugar
+east
+down
+open jar
+put sugar in jar
+put jar
+wait
+close jar
+take fly
+north
+jump on bed
+take cloth
+south
+east
+put fly on web
+take sponge
+west
+west
+south
+take bible
+open bible
+take coin
+north
+east
+down
+north
+open wax
+put wax on sponge
+south
+up
+east
+turn sponge
+destroy web
+take toothbrush
+west
+down
+north
+polish floor
+polish floor
+push couch
+take paper
+read note
+south
+put coin in plaque
+west
+open piano
+open flap
+play piano
+east
+north
+north
+throw marble
+detach sword
+down
+take pickaxe
+dig
+pull plate
+down
+pull lever
+insert handle
+press handle
+press handle
+down
+stand on red
+press block iii
